@@ -1,4 +1,4 @@
-<div align="center"><img src="https://user-images.githubusercontent.com/83943087/139600427-013b6a99-a281-4f72-bb58-554f0e3a4685.png" width="900px"</div>
+<div align="center"><img src="https://user-images.githubusercontent.com/83943087/140281703-fd5ee706-c511-4247-9a22-cc959921b23f.jpg" width="900px"</div>
 <h3 align="left">A passionate Full-Stack developer from Brazil</h3>
   
 <p align="left">-🌱 I’m currently learning **React, Postgre SQL**</p>
